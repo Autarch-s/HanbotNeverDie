@@ -1,20 +1,20 @@
 {
-  "league of legends": {
+  "6d61a30b3ec3df3b3102aa699f5429a0": {
     "Files": {
-      "bot.dll": {
-        "Download": "https://github.com/sbyt3/HanbotNeverDie/raw/master/league of legends/bot.dll",
+      "league of legends/bot.dll": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/6d61a30b3ec3df3b3102aa699f5429a0/league of legends/bot.dll",
         "MD5": "b479d7674e75c4847e4cb8a026da2946"
       },
-      "bot_0.dll": {
-        "Download": "https://github.com/sbyt3/HanbotNeverDie/raw/master/league of legends/bot_0.dll",
+      "league of legends/bot_0.dll": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/6d61a30b3ec3df3b3102aa699f5429a0/league of legends/bot_0.dll",
         "MD5": "2ca97c2f7dcd94eb28701f5676086a3a"
       },
-      "bot_3.dll": {
-        "Download": "https://github.com/sbyt3/HanbotNeverDie/raw/master/league of legends/bot_3.dll",
+      "league of legends/bot_3.dll": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/6d61a30b3ec3df3b3102aa699f5429a0/league of legends/bot_3.dll",
         "MD5": "7e341584e15a76f3e17ef8065858e5eb"
       },
-      "HanbotFree.dll": {
-        "Download": "https://github.com/sbyt3/HanbotNeverDie/raw/master/league of legends/HanbotFree.dll",
+      "league of legends/HanbotFree.dll": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/6d61a30b3ec3df3b3102aa699f5429a0/league of legends/HanbotFree.dll",
         "MD5": "cdedbf509d77b75dd250d6c98885dfd8"
       }
     }
